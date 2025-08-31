@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinuka Liyanage</h1>
-<h3 align="center">Wanna be IT & Business Guy from Sri Lanka</h3>
+<h3 align="center">$0</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinuka7l&label=Profile%20views&color=5dd6df&style=flat" alt="dinuka7l" /> </p>
 
